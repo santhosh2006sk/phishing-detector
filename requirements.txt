@@ -1,0 +1,10 @@
+requests
+pandas
+scikit-learn
+xgboost
+tldextract
+python-whois
+beautifulsoup4
+shap
+fastapi
+uvicorn
